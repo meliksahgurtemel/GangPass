@@ -1,7 +1,7 @@
 # GangPass
 ERC-1155 NFT contract deployed on Ethereum Mainnet. This NFT project is developed for one of the well-known Crypto Twitter influencers.
 
-OpenZeppelin's ECDSA contract is used for whitelisting
+OpenZeppelin's ECDSA contract is used for whitelisting.
 
 **Website link**:
 https://gangpass.com/
