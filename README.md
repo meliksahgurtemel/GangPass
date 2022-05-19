@@ -1,7 +1,7 @@
 # GangPass
 ERC-1155 NFT contract live on Ethereum Mainnet. 
 
-ECDSA is used for whitelisting
+OpenZeppelin's ECDSA contract is used for whitelisting
 
 **Website link**:
 https://gangpass.com/
